@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me and my lab
+- We study the evolution of morphological diversity and biomechanical systems, primarily in anurans (frogs and toads: 🐸). This research answers questions about evolution at or above the species level by using phylogenetic comparative analyses and statistical modeling. We analyze many types of data, including phylogenetic, biogeographic, whole-organism performance (e.g., jumping, swimming), morphological, and ecological data. We usually collect these data in the field or from museum specimens, but we also conduct large-scale analyses of previously published data.
+- I am using GitHub to improve our analysis transparency, accessibility, and longevity. We do not develop packages, nor normally new methods, but we do aim to make our empirical-analysis coding (which often is quite complicated) more freely accessible. We also want to reduce errors. For that, we use the version-control features of GitHub. 
 
 <!--
 **daniel-steven/daniel-steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
